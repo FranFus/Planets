@@ -1,10 +1,5 @@
-//
-//  AppDelegate.swift
-//  World Tracking
-//
 //  Created by Francesco Fuscaldo on 25/01/2018.
-//  Copyright © 2018 Würstchen fest. All rights reserved.
-//
+//  Copyright © 2018 Francesco Fuscaldo All rights reserved.
 
 import UIKit
 
